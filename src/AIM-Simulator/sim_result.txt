@@ -1,0 +1,25 @@
+
+ python traces/traceGenerate.py 4096 1024 1 0 
+
+
+python traces/traceGenerate.py 4096 2048 1 0 
+
+
+python traces/traceGenerate.py 1024 1024 1 0 
+
+
+python traces/traceGenerate.py 1200 1024 1 0 
+
+
+python traces/traceGenerate.py 1024 512 V1 0 
+
+
+python traces/traceGenerate.py  21632 2048 1 0 
+
+
+python traces/traceGenerate.py 2048 2048 1 0 
+
+
+python traces/traceGenerate.py 512 256 1 0 
+
+burstPower = 0.000000,actprePower = 0.040466,refreshPower = 0.003836,backgroundPower = 0.025524,MultEnergy = 10755,endClockCycle = 82448,burstPower = 0.000000,actprePower = 0.040466,refreshPower = 0.003836,backgroundPower = 0.025524,MultEnergy = 10755,endClockCycle = 82448,burstPower = 0.000000,actprePower = 0.040466,refreshPower = 0.003836,backgroundPower = 0.025524,MultEnergy = 10755,endClockCycle = 82448,burstPower = 0.000000,actprePower = 0.040396,refreshPower = 0.003836,backgroundPower = 0.026317,MultEnergy = 12075,endClockCycle = 92637,burstPower = 0.000000,actprePower = 0.040446,refreshPower = 0.003836,backgroundPower = 0.025527,MultEnergy = 10768,endClockCycle = 82488,burstPower = 0.000000,actprePower = 0.040202,refreshPower = 0.003836,backgroundPower = 0.025654,MultEnergy = 10942,endClockCycle = 84220,
