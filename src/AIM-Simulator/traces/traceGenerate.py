@@ -197,8 +197,8 @@ class dram_system():
             self.fw.write("\n")
             self.clk_cycle =  self.clk_cycle + 1    
 #print ("Size of Matrix", sys.argv[1], sys.argv[2])
-ini_path = "/home/mingxuan/sparseNewton/src/AIM-Simulator/ini/AIM.ini"
-system_path = "/home/mingxuan/sparseNewton/src/AIM-Simulator/system.ini.example"
+ini_path = "./src/AIM-Simulator/ini/AIM.ini"
+system_path = "./src/AIM-Simulator/system.ini.example"
 system = dram_system(ini_path, system_path)
 print ("bank, row, col", system.NUM_BANKS, system.NUM_ROWS, system.NUM_COLS)
 print(system.JEDEC_DATA_BUS_BITS) 

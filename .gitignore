@@ -6,6 +6,7 @@ Command.txt
 Trace.txt
 src/play/play
 src/replay/replay
+*.txt
 0.75.espim16.txt
 0.75.espim.txt
 0.7.espim16.txt
